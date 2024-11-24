@@ -1,0 +1,25 @@
+/* Change the color of two elements */
+body {
+    background-color: darkgreen;
+}
+
+h1 {
+    color: darkorange;
+}
+
+/* Change the font properties of two elements */
+h2 {
+    font-family: 'Arial Black', Arial, sans-serif;
+    font-size: 24px;
+}
+
+p {
+    font-family: Georgia, serif;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+/* Change text alignment */
+p {
+    text-align: justify;
+}
